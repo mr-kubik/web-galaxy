@@ -4,6 +4,6 @@ Galaxy travel website
 
 to run install:
 
-pip install django
-pip install psycopg2      
-pip install Pillow
+pip install django;
+pip install psycopg2;      
+pip install Pillow;
